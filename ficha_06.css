@@ -1,0 +1,43 @@
+.Hero_title{
+font-weight: lighter;
+font-size: 50px;
+color: #FFFFFF;
+margin-top: 100px;
+font-weight: 10px;
+
+
+}
+body{
+background-color: black;
+font-family: "Raleway";
+margin-left: 50px;
+}
+
+.hero_button{
+color: #BDBDBD;
+background-color:#2B892E;
+border-radius: 15px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-top: 5px;
+border:none;
+cursor: grab;
+font-family: "Raleway";
+font-size: 13px;
+}
+
+.hero_p{
+ margin-top: 20px;
+color: #BDBDBD;
+
+font-size: 13px;
+line-height: 24px;
+}
+
+.hero_image{
+width: 50%;
+display: block;
+margin-top: 45px;
+
+}
